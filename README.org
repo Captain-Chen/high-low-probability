@@ -1,0 +1,5 @@
+* What is this?
+This is a simple application that calculates the probability of the next drawn card to have either a high or low value.
+Uses two different implementations:
+ - The first method is a brute-force naive method that has a pretty slow runtime.
+ - Method 2 uses known information i.e. what cards have already been seen so far, in order to calculate the probability of the next drawn card's value.
